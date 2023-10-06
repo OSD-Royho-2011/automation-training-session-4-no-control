@@ -6,5 +6,6 @@
 -  The file name should follow the format: **[your_name]_test**. For example: **huyhm_test**
 -  The branch name should follow the format: **[or/your_name/test]**. For example: **or/huyhm/test**
 ## Submission:
-- Send your pull request link to the training meeting chatbox.(https://teams.microsoft.com/_#/conversations/19:meeting_OGNjYjgyMDItNGYzOS00Njk1LTgwODgtYmMwYzZlYmIxMWRl@thread.v2?ctx=chat)
+- Send your pull request link to the training meeting chatbox.
+  https://teams.microsoft.com/_#/conversations/19:meeting_OGNjYjgyMDItNGYzOS00Njk1LTgwODgtYmMwYzZlYmIxMWRl@thread.v2?ctx=chat
 ### Happy coding!!!
